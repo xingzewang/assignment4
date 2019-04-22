@@ -6,6 +6,7 @@ public class student{
 	private String sex;
 	private String telphone;
 	private String  password;
+	
     public String getId() {
 		return id;
 	}
